@@ -1,2 +1,3 @@
-# FE5-JavaScript
-멋쟁이 사자처럼 프론트엔드 스쿨 5기 JavaScript 정리
+# FE5 - JavaScript를 이용한 실검에 오르는 세렝게티 동물 테스트 만들기
+
+세렝게티 동물 MBTI 테스트
